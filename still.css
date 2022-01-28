@@ -1,0 +1,18 @@
+* {
+    margin: 0px;
+    padding: 0px;
+  }
+  body {
+    background-image: url(bicycles.png);
+    font-family: "Grenze Gotisch", cursive;
+}
+
+.yada img {
+    height: 40px;
+    width: 40px
+}
+.gonder {
+    display: flex;
+    margin-top: 20px;
+    color: darkorange;
+  }
